@@ -1,3 +1,10 @@
+body {
+    background-color: rgb(86, 216, 145);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+}
+
 .arena{
     display: flex;
     height: 300px;
@@ -10,14 +17,14 @@
     height: 150px;
     width: 150px;
     position: fixed;
-    top: 240px;
+    top: 290px;
     left: 100px;
 }
 
 #poke2 {
     height: 150px;
     width: 150px;
-    top: 170px;
+    top: 220px;
     left: 300px;
     position: fixed;
 }
